@@ -1,3 +1,5 @@
+<img width="533" height="522" alt="image" src="https://github.com/user-attachments/assets/98cdd0f9-2353-4211-9b91-7898761de460" />
+
 # Seasides 2026 Roulette Badge
 
 ## An ATtiny85-based interactive hardware CTF badge built for the Seasides 2026 Hardware Village.
